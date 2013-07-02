@@ -28,10 +28,97 @@ h3 {
 	font-size: 1.7em;
 	font-weight: bold;
 	width: 100%;
+	margin-bottom: 0;
+}
+
+h4 {
+	text-align: center;
+	font-size: 3em;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	width: 100%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-style: solid;
+	border-color: #fa5021;
+	border-radius: 4px;
 }
 
 .container {
-	width: 600px;
+	width: 610px;
 	margin: 0 auto;
 }
 
+#phone_number {
+	text-align: center;
+	background-color: white;
+	border-radius: 4px;
+	width: 100%;
+}
+
+#bottom {
+	margin-top: 6.6%;
+}
+
+.headings, .funwords {
+	font-family: 'Londrina Solid', cursive;
+	font-size: 1.5em;
+	letter-spacing: 0.2em;
+	color: #fa5021;
+	margin-bottom: 0;
+}
+
+.funwords {
+	text-align: center;
+	color: #4f5050;
+	font-size: 2em;
+}
+
+.subheadings {
+	font-family: 'Londrina Solid', cursive;
+	font-size: 1.5em;
+	letter-spacing: 0.2em;
+	color: #678fff;
+	margin-bottom: 0;
+}
+
+ul {
+	margin-top: 4px;
+}
+
+li {
+	font-size: 1.2em;
+	line-height: 1.875em;
+	color: #4f5050;
+}
+
+.keyword {
+	background-color: white;
+	border-style: solid;
+	border-color: #4f5050; 
+	padding: .05% .8%;
+}
+
+section {
+	width: 534px;
+	background-color: white;
+	height: 990px;
+	padding: 0 5% 5% 5%;
+	border-style: solid;
+	border-color: #fa5021;
+	border-radius: 4px;
+	margin-top: 8%;
+	margin-bottom: 10%;
+}
+
+#divider {
+	margin-bottom: 0;
+}
+
+#negative {
+	float: left;
+}
+
+#positive {
+	float: right;
+}
