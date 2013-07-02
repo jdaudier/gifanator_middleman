@@ -6,6 +6,11 @@ body {
 	background-repeat: repeat;
 }
 
+a {
+	text-decoration: none;
+	color: #222;
+}
+
 h1 {
 	text-align: center;
 	font-family: 'Londrina Solid', cursive;
