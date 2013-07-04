@@ -136,7 +136,6 @@ footer {
 	height: 80px;
 }
 
-footer img {
-	display: block;
-	margin: 0 auto;
+footer form {
+	text-align: center;
 }
